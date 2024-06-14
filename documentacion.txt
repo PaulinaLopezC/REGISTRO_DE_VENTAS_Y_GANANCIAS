@@ -1,0 +1,39 @@
+ REGISTRO DE VENTAS Y GANANCIAS (INICIO Y FINAL DEL DIA)
+	 Productos a vender:
+  1. Botella de Suero	 2. Toalla
+  3. Rodilleras		 4. Cinta
+  5. Guantes		 6. Gorra
+  7. Bloqueador		 8. Ligas
+  9. Cronometro		 10. Pulsera de ritmo cardiaco
+  11. Lentes obscuros	 12. Banditas
+
+		 INICIO DEL DIA 1
+   Producto    Precio  Cantidad inicial
+	1	$ 15	  7
+	2	$ 10	  10
+	3	$ 30	  9
+	4	$ 10	  6
+	5	$ 20	  10
+	6	$ 40	  3
+	7	$ 30	  5
+	8	$ 20	  2
+	9	$ 40	  9
+	10	$ 50	  4
+	11	$ 50	  10
+	12	$ 30	  4
+
+		 FINAL DEL DIA
+   Producto    Precio  Cantidad inicial
+	1	$ 15	  6
+	2	$ 10	  10
+	3	$ 30	  9
+	4	$ 10	  6
+	5	$ 20	  10
+	6	$ 40	  3
+	7	$ 30	  5
+	8	$ 20	  2
+	9	$ 40	  9
+	10	$ 50	  4
+	11	$ 50	  10
+	12	$ 30	  4
+	 GANANCIAS DEL DIA: 15
