@@ -1,4 +1,4 @@
-Proyecto final de la materia Solución de Problemas con Programación
+Proyecto final Maquina Expendedora en C (Solución de Problemas con Programación)
 
 Programa implementado en C, donde se hace una maquina expendedora que registra las ventas y las ganancias al inicio y al final del dia.
 
